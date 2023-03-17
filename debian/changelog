@@ -1,8 +1,8 @@
-seetaface-boxes (1.0.0.1-1+dde+u001) UNRELEASED; urgency=medium
+seetaface-boxes (1.0.0.1-1+dde+u001deepin) unstable; urgency=medium
 
   * update
 
- -- bd <bd@seetatech.com>  Thu, 28 Apr 2022 06:35:57 -0400
+ -- Yutao Meng <mengyutao@uniontech.com>  Fri, 17 Mar 2023 17:21:12 +0800
 
 seetaface-boxes (1.0.0.1-1+dde) unstable; urgency=medium
 
